@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 18:08:00
+@Last Modified time: 2026-08-21 18:21:00
 -->
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="assets/avatar.png" alt="rogue-dev-studio" width="160" height="160" />
   </a>
   <br /><br />
-  <a href="https://rogue-dev-studio.github.io/"><img src="https://img.shields.io/badge/Situs-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Situs" /></a>
+  <a href="https://rogue-dev-studio.github.io/"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://rogue-dev-studio.github.io/cv/"><img src="https://img.shields.io/badge/CV-EC1C24?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/arishadisopiyan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gitlab.com/rogue-dev-studio"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
@@ -20,9 +20,9 @@
 
 # Rogue Developer
 
-Software Engineer di Bandung. Kerja sehari-hari di aplikasi web dan sistem informasi. Karya publik ada di situs portfolio.
+Software Engineer based in Bandung. Day-to-day work on web applications and information systems. Public work lives on the portfolio site.
 
-## Fokus
+## Focus
 
 <p>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APHP&type=repositories" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
@@ -68,18 +68,28 @@ Software Engineer di Bandung. Kerja sehari-hari di aplikasi web dan sistem infor
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
 </p>
 
-## Repositori yang relevan
+## Contributions
 
-| Repo | Catatan |
-|------|---------|
-| [rogue-dev-studio.github.io](https://github.com/rogue-dev-studio/rogue-dev-studio.github.io) | Situs portfolio |
-| [ai-agents-rogue](https://github.com/rogue-dev-studio/ai-agents-rogue) | Katalog agents, rules, dan skills |
-| [porto_aplikasi_sistem_informasi_klinik](https://github.com/rogue-dev-studio/porto_aplikasi_sistem_informasi_klinik) | Portfolio sistem informasi klinik |
-| [laravel-pms](https://github.com/rogue-dev-studio/laravel-pms) | Demo UI manajemen proyek Laravel 11, bukan PMS produksi |
-| [sistem-informasi-seminar](https://github.com/rogue-dev-studio/sistem-informasi-seminar) | Prototipe login Android (Java), bukan sistem seminar lengkap |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogue-dev-studio/rogue-dev-studio/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogue-dev-studio/rogue-dev-studio/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rogue-dev-studio/rogue-dev-studio/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-Banyak repo lain di akun ini adalah arsip kuliah, fork, atau eksperimen. Yang di atas adalah titik masuk yang lebih jelas.
+## Relevant repositories
 
-## Kontak
+| Repo | Notes |
+|------|-------|
+| [rogue-dev-studio.github.io](https://github.com/rogue-dev-studio/rogue-dev-studio.github.io) | Portfolio website |
+| [ai-agents-rogue](https://github.com/rogue-dev-studio/ai-agents-rogue) | Catalog of agents, rules, and skills |
+| [porto_aplikasi_sistem_informasi_klinik](https://github.com/rogue-dev-studio/porto_aplikasi_sistem_informasi_klinik) | Clinic information system portfolio |
+| [laravel-pms](https://github.com/rogue-dev-studio/laravel-pms) | Laravel 11 project-management UI demo, not a production PMS |
+| [sistem-informasi-seminar](https://github.com/rogue-dev-studio/sistem-informasi-seminar) | Android (Java) login prototype, not a full seminar system |
+
+Many other repositories on this account are coursework archives, forks, or experiments. The ones above are clearer entry points.
+
+## Contact
 
 [aris.hadisopiyan@gmail.com](mailto:aris.hadisopiyan@gmail.com)
