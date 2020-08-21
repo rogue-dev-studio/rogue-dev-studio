@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 18:42:00
+@Last Modified time: 2026-08-21 19:00:00
 -->
 
 <p align="center">
@@ -68,16 +68,24 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
 </p>
 
-## Stats
+## Language velocity
 
 <p align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=rogue-dev-studio" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/insights/metrics-velocity.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/insights/metrics-velocity-light.svg" />
+    <img src="assets/insights/metrics-velocity-light.svg" alt="Language velocity streamgraph" />
+  </picture>
 </p>
 
-## Top languages
+## Contribution rhythm
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-dev-studio&layout=compact&langs_count=8&hide_title=true&card_width=480" alt="Top languages by percentage" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/insights/metrics-rhythm.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/insights/metrics-rhythm-light.svg" />
+    <img src="assets/insights/metrics-rhythm-light.svg" alt="Contribution rhythm radar" />
+  </picture>
 </p>
 
 ## Contributions
