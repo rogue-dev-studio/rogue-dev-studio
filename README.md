@@ -2,8 +2,14 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 17:35:00
+@Last Modified time: 2026-08-21 17:40:00
 -->
+
+<p align="center">
+  <a href="https://rogue-dev-studio.github.io/">
+    <img src="./assets/profile-banner.svg" alt="Rogue Development" width="100%" />
+  </a>
+</p>
 
 # Aris Hadisopiyan
 
