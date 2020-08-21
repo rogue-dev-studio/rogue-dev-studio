@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 17:30:00
+@Last Modified time: 2026-08-21 17:35:00
 -->
 
 # Aris Hadisopiyan
@@ -14,9 +14,9 @@ Software Engineer di Bandung. Kerja sehari-hari di aplikasi web dan sistem infor
 <p>
   <a href="https://rogue-dev-studio.github.io/" title="Situs"><img src="https://cdn.simpleicons.org/githubpages/2088FF" width="32" height="32" alt="Situs" /></a>
   &nbsp;
-  <a href="https://rogue-dev-studio.github.io/cv/" title="CV"><img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="32" height="32" alt="CV" /></a>
+  <a href="https://rogue-dev-studio.github.io/cv/" title="CV"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobeacrobatreader.svg" width="32" height="32" alt="CV" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/arishadisopiyan" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/arishadisopiyan" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://gitlab.com/rogue-dev-studio" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="32" height="32" alt="GitLab" /></a>
 </p>
@@ -55,7 +55,7 @@ Software Engineer di Bandung. Kerja sehari-hari di aplikasi web dan sistem infor
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AAstro&type=repositories" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ADockerfile&type=repositories" title="Dockerfile"><img src="https://skillicons.dev/icons?i=docker" alt="Dockerfile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AObjective-C&type=repositories" title="Objective-C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" width="48" height="48" alt="Objective-C" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABatchfile&type=repositories" title="Batchfile"><img src="https://cdn.simpleicons.org/windows/0078D6" width="48" height="48" alt="Batchfile" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABatchfile&type=repositories" title="Batchfile"><img src="https://skillicons.dev/icons?i=windows" alt="Batchfile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AHack&type=repositories" title="Hack"><img src="https://img.shields.io/badge/Hack-878787?style=flat-square&logo=php&logoColor=white" alt="Hack" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACOBOL&type=repositories" title="COBOL"><img src="https://img.shields.io/badge/COBOL-005CA5?style=flat-square" alt="COBOL" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABlade&type=repositories" title="Blade"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Blade" /></a>
