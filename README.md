@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 19:10:00
+@Last Modified time: 2026-08-23 14:05:00
 -->
 
 <p align="center">
@@ -35,7 +35,7 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACSS&type=repositories" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
 </p>
 
-## Programming Languages and Other Languages
+## Languages and Tools:
 
 <p>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
@@ -68,6 +68,24 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMDX&type=repositories" title="MDX"><img src="https://cdn.simpleicons.org/mdx/F9AC00" width="48" height="48" alt="MDX" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMakefile&type=repositories" title="Makefile"><img src="https://cdn.simpleicons.org/gnu/A42E2B" width="48" height="48" alt="Makefile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
+  <br />
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alaravel&type=repositories" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Avite&type=repositories" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Areactjs&type=repositories" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Athreejs&type=repositories" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abootstrap3&type=repositories" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aandroid&type=repositories" title="Android"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aunity&type=repositories" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://skillicons.dev/icons?i=jekyll" alt="Jekyll" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Anetlify&type=repositories" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Agithub-pages&type=repositories" title="GitHub Pages"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aanimejs&type=repositories" title="Anime.js"><img src="https://cdn.simpleicons.org/animejs/FF4B4B" width="48" height="48" alt="Anime.js" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alottie&type=repositories" title="Lottie"><img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="48" height="48" alt="Lottie" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Awebgl&type=repositories" title="WebGL"><img src="https://cdn.simpleicons.org/webgl/990000" width="48" height="48" alt="WebGL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Acursor&type=repositories" title="Cursor"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aopencode&type=repositories" title="OpenCode"><img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=flat-square" alt="OpenCode" height="48" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aclaude-code&type=repositories" title="Claude Code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square" alt="Claude Code" height="48" /></a>
 </p>
 
 ## Language velocity
