@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-23 14:05:00
+@Last Modified time: 2026-08-23 14:15:00
 -->
 
 <p align="center">
@@ -77,10 +77,9 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aandroid&type=repositories" title="Android"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aunity&type=repositories" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://skillicons.dev/icons?i=jekyll" alt="Jekyll" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="48" height="48" alt="Jekyll" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Anetlify&type=repositories" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Agithub-pages&type=repositories" title="GitHub Pages"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aanimejs&type=repositories" title="Anime.js"><img src="https://cdn.simpleicons.org/animejs/FF4B4B" width="48" height="48" alt="Anime.js" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alottie&type=repositories" title="Lottie"><img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="48" height="48" alt="Lottie" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Awebgl&type=repositories" title="WebGL"><img src="https://cdn.simpleicons.org/webgl/990000" width="48" height="48" alt="WebGL" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Acursor&type=repositories" title="Cursor"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" /></a>
