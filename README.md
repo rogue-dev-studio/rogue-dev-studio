@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-23 14:45:00
+@Last Modified time: 2026-08-23 14:50:00
 -->
 
 <p align="center">
@@ -27,6 +27,7 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
 ## Languages and Tools:
 
 <p>
+  <strong>Languages</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APHP&type=repositories" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AHTML&type=repositories" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
@@ -51,7 +52,8 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABatchfile&type=repositories" title="Batchfile"><img src="https://skillicons.dev/icons?i=windows" alt="Batchfile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACMake&type=repositories" title="CMake"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake" /></a>
-  <br />
+  <br /><br />
+  <strong>Frameworks &amp; UI</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii2&type=repositories" title="Yii 2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 2" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii1&type=repositories" title="Yii 1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 1" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alaravel&type=repositories" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
@@ -63,31 +65,38 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Avite&type=repositories" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASCSS&type=repositories" title="SCSS"><img src="https://skillicons.dev/icons?i=sass" alt="SCSS" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALess&type=repositories" title="Less"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" /></a>
-  <br />
+  <br /><br />
+  <strong>Databases</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Apostgresql&type=repositories" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <br />
+  <br /><br />
+  <strong>Infrastructure &amp; messaging</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Adocker&type=repositories" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aredis&type=repositories" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Arabbitmq&type=repositories" title="RabbitMQ"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" /></a>
-  <br />
+  <br /><br />
+  <strong>Version control &amp; collaboration</strong><br />
   <a href="https://gitlab.com/rogue-dev-studio" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
   <a href="https://github.com/rogue-dev-studio" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abitbucket&type=repositories" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajira&type=repositories" title="Jira"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" /></a>
-  <br />
+  <br /><br />
+  <strong>Frontend &amp; media</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Athreejs&type=repositories" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Awebgl&type=repositories" title="WebGL"><img src="https://cdn.simpleicons.org/webgl/990000" width="48" height="48" alt="WebGL" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alottie&type=repositories" title="Lottie"><img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="48" height="48" alt="Lottie" /></a>
-  <br />
+  <br /><br />
+  <strong>Mobile, game &amp; 3D</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aandroid&type=repositories" title="Android"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aunity&type=repositories" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ablender&type=repositories" title="Blender"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
-  <br />
+  <br /><br />
+  <strong>Hosting &amp; static sites</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="48" height="48" alt="Jekyll" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Anetlify&type=repositories" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Agithub-pages&type=repositories" title="GitHub Pages"><img src="https://cdn.simpleicons.org/githubpages/222222" width="48" height="48" alt="GitHub Pages" /></a>
-  <br />
+  <br /><br />
+  <strong>AI dev tools</strong><br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Acursor&type=repositories" title="Cursor"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aopencode&type=repositories" title="OpenCode"><img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=flat-square" alt="OpenCode" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aclaude-code&type=repositories" title="Claude Code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square" alt="Claude Code" height="48" /></a>
