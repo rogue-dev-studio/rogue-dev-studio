@@ -22,6 +22,7 @@ PHP, Yii, PostgreSQL, JavaScript, pengembangan web.
 | [rogue-dev-studio.github.io](https://github.com/rogue-dev-studio/rogue-dev-studio.github.io) | Situs portfolio |
 | [ai-agents-rogue](https://github.com/rogue-dev-studio/ai-agents-rogue) | Katalog agents, rules, dan skills |
 | [porto_aplikasi_sistem_informasi_klinik](https://github.com/rogue-dev-studio/porto_aplikasi_sistem_informasi_klinik) | Portfolio sistem informasi klinik |
+| [laravel-pms](https://github.com/rogue-dev-studio/laravel-pms) | Demo UI manajemen proyek Laravel 11, bukan PMS produksi |
 | [sistem-informasi-seminar](https://github.com/rogue-dev-studio/sistem-informasi-seminar) | Prototipe login Android (Java), bukan sistem seminar lengkap |
 
 Banyak repo lain di akun ini adalah arsip kuliah, fork, atau eksperimen. Yang di atas adalah titik masuk yang lebih jelas.
