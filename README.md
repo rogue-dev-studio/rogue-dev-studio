@@ -2,12 +2,12 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 17:56:00
+@Last Modified time: 2026-08-21 18:08:00
 -->
 
 <p align="center">
   <a href="https://rogue-dev-studio.github.io/">
-    <img src="https://github.com/rogue-dev-studio.png" alt="rogue-dev-studio" width="160" height="160" style="border-radius: 50%;" />
+    <img src="assets/avatar.png" alt="rogue-dev-studio" width="160" height="160" />
   </a>
   <br /><br />
   <a href="https://rogue-dev-studio.github.io/"><img src="https://img.shields.io/badge/Situs-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Situs" /></a>
