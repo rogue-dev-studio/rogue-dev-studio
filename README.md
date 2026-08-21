@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-21 18:21:00
+@Last Modified time: 2026-08-21 18:42:00
 -->
 
 <p align="center">
@@ -66,6 +66,18 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMDX&type=repositories" title="MDX"><img src="https://cdn.simpleicons.org/mdx/F9AC00" width="48" height="48" alt="MDX" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMakefile&type=repositories" title="Makefile"><img src="https://cdn.simpleicons.org/gnu/A42E2B" width="48" height="48" alt="Makefile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=rogue-dev-studio" alt="GitHub stats" />
+</p>
+
+## Top languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogue-dev-studio&layout=compact&langs_count=8&hide_title=true&card_width=480" alt="Top languages by percentage" />
 </p>
 
 ## Contributions
