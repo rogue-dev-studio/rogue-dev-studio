@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-23 14:15:00
+@Last Modified time: 2026-08-23 14:30:00
 -->
 
 <p align="center">
@@ -24,22 +24,12 @@
 
 Software Engineer based in Bandung. Day-to-day work on web applications and information systems. Public work lives on the portfolio site.
 
-## Focus
-
-<p>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APHP&type=repositories" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii&type=repositories" title="Yii"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Apostgresql&type=repositories" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AHTML&type=repositories" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACSS&type=repositories" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-</p>
-
 ## Languages and Tools:
 
 <p>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APHP&type=repositories" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii&type=repositories" title="Yii"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ATypeScript&type=repositories" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ADart&type=repositories" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APython&type=repositories" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
@@ -75,6 +65,7 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Athreejs&type=repositories" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abootstrap3&type=repositories" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Apostgresql&type=repositories" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aandroid&type=repositories" title="Android"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aunity&type=repositories" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="48" height="48" alt="Jekyll" /></a>
