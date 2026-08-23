@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-23 14:50:00
+@Last Modified time: 2026-08-23 16:55:00
 -->
 
 <p align="center">
@@ -54,14 +54,12 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACMake&type=repositories" title="CMake"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake" /></a>
   <br /><br />
   <strong>Frameworks &amp; UI</strong><br />
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii2&type=repositories" title="Yii 2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 2" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii1&type=repositories" title="Yii 1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 1" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+(topic%3Ayii1+OR+topic%3Ayii2)&type=repositories" title="Yii (1 &amp; 2)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alaravel&type=repositories" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AVue&type=repositories" title="Vue"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Areactjs&type=repositories" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abootstrap3&type=repositories" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AAstro&type=repositories" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABlade&type=repositories" title="Blade"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Blade" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Avite&type=repositories" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASCSS&type=repositories" title="SCSS"><img src="https://skillicons.dev/icons?i=sass" alt="SCSS" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALess&type=repositories" title="Less"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" /></a>
