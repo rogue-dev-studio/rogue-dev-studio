@@ -2,7 +2,7 @@
 @Author: rogue-dev-studio
 @Date: 2026-08-14 16:30:00
 @Last Modified by: rogue-dev-studio
-@Last Modified time: 2026-08-23 14:30:00
+@Last Modified time: 2026-08-23 14:45:00
 -->
 
 <p align="center">
@@ -27,52 +27,67 @@ Software Engineer based in Bandung. Day-to-day work on web applications and info
 ## Languages and Tools:
 
 <p>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APHP&type=repositories" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii&type=repositories" title="Yii"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ATypeScript&type=repositories" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ADart&type=repositories" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APython&type=repositories" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AShell&type=repositories" title="Shell"><img src="https://skillicons.dev/icons?i=bash" alt="Shell" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AC%2B%2B&type=repositories" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APowerShell&type=repositories" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJava&type=repositories" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ARuby&type=repositories" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AVue&type=repositories" title="Vue"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASwift&type=repositories" title="Swift"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AC&type=repositories" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AKotlin&type=repositories" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJavaScript&type=repositories" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AHTML&type=repositories" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACSS&type=repositories" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASCSS&type=repositories" title="SCSS"><img src="https://skillicons.dev/icons?i=sass" alt="SCSS" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AAstro&type=repositories" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ADockerfile&type=repositories" title="Dockerfile"><img src="https://skillicons.dev/icons?i=docker" alt="Dockerfile" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ATypeScript&type=repositories" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APython&type=repositories" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AJava&type=repositories" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AKotlin&type=repositories" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ADart&type=repositories" title="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AC&type=repositories" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AC%2B%2B&type=repositories" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ARuby&type=repositories" title="Ruby"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASwift&type=repositories" title="Swift"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AShell&type=repositories" title="Shell"><img src="https://skillicons.dev/icons?i=bash" alt="Shell" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3APowerShell&type=repositories" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AObjective-C&type=repositories" title="Objective-C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" width="48" height="48" alt="Objective-C" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABatchfile&type=repositories" title="Batchfile"><img src="https://skillicons.dev/icons?i=windows" alt="Batchfile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AHack&type=repositories" title="Hack"><img src="https://img.shields.io/badge/Hack-878787?style=flat-square&logo=php&logoColor=white" alt="Hack" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACOBOL&type=repositories" title="COBOL"><img src="https://img.shields.io/badge/COBOL-005CA5?style=flat-square" alt="COBOL" height="48" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABlade&type=repositories" title="Blade"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Blade" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALess&type=repositories" title="Less"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACMake&type=repositories" title="CMake"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ATeX&type=repositories" title="TeX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="48" height="48" alt="TeX" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMDX&type=repositories" title="MDX"><img src="https://cdn.simpleicons.org/mdx/F9AC00" width="48" height="48" alt="MDX" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AMakefile&type=repositories" title="Makefile"><img src="https://cdn.simpleicons.org/gnu/A42E2B" width="48" height="48" alt="Makefile" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABatchfile&type=repositories" title="Batchfile"><img src="https://skillicons.dev/icons?i=windows" alt="Batchfile" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALiquid&type=repositories" title="Liquid"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="48" height="48" alt="Liquid" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ACMake&type=repositories" title="CMake"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake" /></a>
   <br />
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii2&type=repositories" title="Yii 2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 2" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ayii1&type=repositories" title="Yii 1"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" width="48" height="48" alt="Yii 1" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alaravel&type=repositories" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Avite&type=repositories" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AVue&type=repositories" title="Vue"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Areactjs&type=repositories" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Athreejs&type=repositories" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abootstrap3&type=repositories" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3AAstro&type=repositories" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ABlade&type=repositories" title="Blade"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Blade" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Avite&type=repositories" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ASCSS&type=repositories" title="SCSS"><img src="https://skillicons.dev/icons?i=sass" alt="SCSS" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+language%3ALess&type=repositories" title="Less"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" /></a>
+  <br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Apostgresql&type=repositories" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Amysql&type=repositories" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <br />
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Adocker&type=repositories" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aredis&type=repositories" title="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Arabbitmq&type=repositories" title="RabbitMQ"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" /></a>
+  <br />
+  <a href="https://gitlab.com/rogue-dev-studio" title="GitLab"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+  <a href="https://github.com/rogue-dev-studio" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Abitbucket&type=repositories" title="Bitbucket"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajira&type=repositories" title="Jira"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" /></a>
+  <br />
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Athreejs&type=repositories" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Awebgl&type=repositories" title="WebGL"><img src="https://cdn.simpleicons.org/webgl/990000" width="48" height="48" alt="WebGL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alottie&type=repositories" title="Lottie"><img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="48" height="48" alt="Lottie" /></a>
+  <br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aandroid&type=repositories" title="Android"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aunity&type=repositories" title="Unity"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ablender&type=repositories" title="Blender"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
+  <br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Ajekyll&type=repositories" title="Jekyll"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="48" height="48" alt="Jekyll" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Anetlify&type=repositories" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Agithub-pages&type=repositories" title="GitHub Pages"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Alottie&type=repositories" title="Lottie"><img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="48" height="48" alt="Lottie" /></a>
-  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Awebgl&type=repositories" title="WebGL"><img src="https://cdn.simpleicons.org/webgl/990000" width="48" height="48" alt="WebGL" /></a>
+  <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Agithub-pages&type=repositories" title="GitHub Pages"><img src="https://cdn.simpleicons.org/githubpages/222222" width="48" height="48" alt="GitHub Pages" /></a>
+  <br />
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Acursor&type=repositories" title="Cursor"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aopencode&type=repositories" title="OpenCode"><img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=flat-square" alt="OpenCode" height="48" /></a>
   <a href="https://github.com/search?q=user%3Arogue-dev-studio+topic%3Aclaude-code&type=repositories" title="Claude Code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square" alt="Claude Code" height="48" /></a>
