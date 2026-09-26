@@ -144,4 +144,4 @@ Many other repositories on this account are coursework archives, forks, or exper
 
 ## Contact
 
-[aris.hadisopiyan@gmail.com](mailto:aris.hadisopiyan@gmail.com)
+[Contact](https://rogue-dev-studio.github.io/contact/)
